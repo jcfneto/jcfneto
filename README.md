@@ -4,7 +4,6 @@
 I am mechanical engineering looking for opportunities and collabaration in projects related to data science and machine/deep learning.
 - 🔭 I’m currently self-employed as a machine designer.
 - 📝 I’m currently studying  to be a data scientist.
-- 🤝 My favorite subjects is handling with machine learning. 
 - 👨‍💻 All of my projects are available at [link](https://jcfneto.github.io/).
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jcfneto)
