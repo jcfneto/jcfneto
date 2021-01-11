@@ -1,5 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Hi 👋
 I am mechanical engineering looking for opportunities and collabaration in projects related to data science and machine/deep learning.
 - 🔭 I’m currently self-employed as a machine designer.
