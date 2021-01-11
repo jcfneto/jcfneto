@@ -7,6 +7,6 @@ I am mechanical engineering looking for opportunities and collabaration in proje
 - 🤝 My favorite subjects is handling with machine learning. 
 - 👨‍💻 All of my projects are available at [link](https://jcfneto.github.io/).
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jcfneto)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jcfneto/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ferreiran/)
