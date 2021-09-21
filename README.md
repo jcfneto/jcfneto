@@ -1,7 +1,7 @@
 ### Hi 👋
 I am mechanical engineering and master's degree student.
 
-- 🔭 I currently work as a dev (python) Jr. on the Clicksign BI team.
+- 🔭 I currently work as a data scientist on the Clicksign data team.
 - 👨‍💻 All of my projects are available at [link](https://jcfneto.github.io/).
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jcfneto/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ferreiran/)
