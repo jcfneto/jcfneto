@@ -1,5 +1,7 @@
 ### Hi 👋
-I am mechanical engineering and master's degree student.
+I'm a Data Scientist, B.Sc. in Mechanical Engineering and a Master's student in Systems Engineering and Automation.
+
+My Master's research is on Granular Neural Networks and Deep Learning.
 
 - 🔭 I currently work as a data scientist on the Clicksign data team.
 - 👨‍💻 All of my projects are available at [link](https://jcfneto.github.io/).
