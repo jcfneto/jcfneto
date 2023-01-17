@@ -10,7 +10,7 @@ My Master's research is on Natural Language Processing.
 ---
 ### Tech stack
 
-I have experience in a variety of tools and programming languages. Below you can check out some of them:
+I have experience in several tools and programming languages. Below you can check out some of them:
 
 ###### Languages:
 
