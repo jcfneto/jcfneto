@@ -3,7 +3,7 @@ I'm a Data Scientist, Dev Python, B.Sc. in Mechanical Engineering and a Master's
 
 My Master's research is on Natural Language Processing.
 
-- 🔭 I currently work as a data scientist in the Beegol data team.
+- 🔭 I currently work as a data scientist.
 - 👨‍💻 All of my projects are available at [link](https://jcfneto.github.io/).
 
 
