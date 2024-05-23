@@ -1,7 +1,5 @@
 ### Hi 👋
-I'm a Data Scientist, Dev Python, B.Sc. in Mechanical Engineering and a Master's student in Systems Engineering and Automation.
-
-My Master's research is on Natural Language Processing.
+I'm a Data Scientist, Dev Python, B.Sc. in Mechanical Engineering, and I hold a Master's degree in Systems Engineering and Automation with a focus on Natural Language Processing.
 
 - 🔭 I currently work as a data scientist at Idwall.
 - 👨‍💻 All of my projects are available at [link](https://jcfneto.github.io/).
